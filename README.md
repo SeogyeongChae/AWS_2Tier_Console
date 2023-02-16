@@ -5,7 +5,7 @@
 
 ----
 ## 0. Architecture
-![image](https://user-images.githubusercontent.com/110655818/216766129-e704d057-1b2e-445d-a94a-69ff33633f44.png)
+![2-Tier architecture](https://user-images.githubusercontent.com/110655818/219309363-d7b2e019-742a-4a24-b69c-44cbc3240d9f.jpg)
 
 ----
 ## 1. Reference
