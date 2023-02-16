@@ -4,9 +4,16 @@
 * Personnel ➛ 5
 
 ----
-## 0. Architecture
-![2-Tier architecture](https://user-images.githubusercontent.com/110655818/219309363-d7b2e019-742a-4a24-b69c-44cbc3240d9f.jpg)
+## 0. Detail
+* vpc configuration
+* CloudFront configuration
+* Utilize EFS
+* Utilize failover sites (S3 bucket)
 
 ----
-## 1. Reference
+## 1. Architecture
+![2-tier architecture](https://user-images.githubusercontent.com/110655818/219312695-28e7b949-dcc7-40f0-a048-a945215d42bc.jpg)
+
+----
+## 2. Reference
 https://judy-nick.notion.site/AWS_2Tier_Console-6354e1a1f147494db59a61dc36bf3ea0
