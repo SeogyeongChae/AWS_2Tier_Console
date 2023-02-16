@@ -9,4 +9,4 @@
 
 ----
 ## 1. Reference
-https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3a8aeb26-dd80-4553-8b1d-8c73c3bc3a5e/AWS_Final_project.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230209%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230209T084121Z&X-Amz-Expires=86400&X-Amz-Signature=14f26a454186ffc73d83c63b6cab4ea83890655ed8a04e24c592816ef87e9662&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22AWS%2520Final%2520project.pdf%22&x-id=GetObject
+https://judy-nick.notion.site/AWS_2Tier_Console-6354e1a1f147494db59a61dc36bf3ea0
